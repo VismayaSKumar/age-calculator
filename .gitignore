@@ -4,5 +4,5 @@ dist/
 *.log
 
 # Ensure CSS and JS files are not ignored
-!src/output.css
-!src/script.js
+!output.css
+!script.js
